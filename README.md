@@ -1,6 +1,6 @@
-Python and Django Live Project
+<h2>Python and Django Live Project</h2>
 
-Introduction
+<h2>Introduction</h2>
 
 During the past two weeks, I had been working on using mostly Python and the Django framework to assist with both frontend and backend web development attempting to deploy a range of applications designed to be part of a larger application. Within the team I was assigned the primary task to design and impliment my own custom app to offer a unique experience to the user. My goal in this project was to create an app that would store a database of seafood related products with specific information for users to search through with the ability to edit or delete entries on request.
 
